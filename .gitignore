@@ -1,0 +1,8 @@
+*.weights
+*.zip
+*.pkl
+pedestrian dataset/
+person-dataset/
+build/
+dist/
+images/
