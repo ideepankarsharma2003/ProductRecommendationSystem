@@ -1,6 +1,7 @@
 *.weights
 *.zip
 *.pkl
+*.mp4
 pedestrian dataset/
 person-dataset/
 build/
